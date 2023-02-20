@@ -7,5 +7,6 @@ Then write one sentence describing what the program does.
 
 // Date : Saturday,  February 18, 2023
 // Change lettercase of Name into uppercase
+// change to uppercase
 let myName = 'Hamza Jamil';
  console.log(`myName.toUpperCase()`);
